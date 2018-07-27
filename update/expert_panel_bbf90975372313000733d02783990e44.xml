@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert_panel">
+    <expert_panel action="INSERT_OR_UPDATE">
+        <banner_step/>
+        <complete_message>Done</complete_message>
+        <description/>
+        <expert/>
+        <name/>
+        <next_message>Next</next_message>
+        <order/>
+        <previous_message>Previous</previous_message>
+        <sys_class_name>expert_panel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 13:57:35</sys_created_on>
+        <sys_id>bbf90975372313000733d02783990e44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Catalog Wizards" source="x_26525_catalog_wi">7cd641b1372313000733d02783990ee3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Wizards">7cd641b1372313000733d02783990ee3</sys_scope>
+        <sys_update_name>expert_panel_bbf90975372313000733d02783990e44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-27 13:57:35</sys_updated_on>
+        <title/>
+    </expert_panel>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbf90975372313000733d02783990e44"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Catalog Poratl Home page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="cataloghp">22f26a7137e313000733d02783990edb</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-27 20:27:55</sys_created_on>
+        <sys_id>3f536ab137e313000733d02783990ef2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog Poratl Home page - Container 1</sys_name>
+        <sys_package display_value="Catalog Wizards" source="x_26525_catalog_wi">7cd641b1372313000733d02783990ee3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Wizards">7cd641b1372313000733d02783990ee3</sys_scope>
+        <sys_update_name>sp_container_3f536ab137e313000733d02783990ef2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-27 20:27:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
