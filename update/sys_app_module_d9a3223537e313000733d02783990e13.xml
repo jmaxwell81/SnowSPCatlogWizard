@@ -17,7 +17,7 @@
         <name/>
         <order>40</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>np?id=sc_cat_item_guide&amp;sys_id=6690750f4f7b4200086eeed18110c761</query>
+        <query>np?id=sc_cat_item_guide&amp;sys_id=595932aa37eb53000733d02783990e96</query>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -26,17 +26,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d9a3223537e313000733d02783990e13</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>New Hire</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>DB Patch</sys_name>
         <sys_overrides/>
         <sys_package display_value="Catalog Wizards" source="x_26525_catalog_wi">7cd641b1372313000733d02783990ee3</sys_package>
         <sys_policy/>
         <sys_scope display_value="Catalog Wizards">7cd641b1372313000733d02783990ee3</sys_scope>
         <sys_update_name>sys_app_module_d9a3223537e313000733d02783990e13</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-27 20:54:10</sys_updated_on>
+        <sys_updated_on>2018-07-30 06:07:40</sys_updated_on>
         <timeline_page/>
-        <title>New Hire</title>
+        <title>DB Patch</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
